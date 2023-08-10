@@ -1,8 +1,9 @@
-**Analysis of the market value of footballers from the top 6 European leagues.**
+# **Analysis of the market value of footballers from the top 6 European leagues.**
 
-The purpose of the study is to collect data using the web scraping technique, combine several data sets into one, and then attempt to build a model to predict the market value of players from the transfermarkt portal based on statistics proposed by the developers of the FIFA game and match statistics from the who_scored.
+The purpose of the study is to collect data using the web scraping technique, combine several data sets into one, analyse the data and then attempt to build a model to predict the market value of players from the transfermarkt portal based on statistics proposed by the developers of the FIFA game and match statistics from the who_scored.
 
 
+## Web scraping
 
 The first objective was to collect information on football players from the top 6 European leagues:
 - Premier league - English league
