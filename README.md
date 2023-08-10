@@ -13,7 +13,7 @@ For modelling, **statsmodels** and **scikit-learn** were used.
 
 
 ## Web scraping and merging data sets
-[**Link to the code**](https://github.com/AdamZ0112358/values-fifa/blob/main/webscrapping/webscrapping5.py)
+[**Link to the code**](https://github.com/AdamZ0112358/values-fifa/blob/main/webscrapping/webscrapping7.py)
 
 The first objective was to collect information on football players from the top 6 European leagues:
 - Premier league - English league
