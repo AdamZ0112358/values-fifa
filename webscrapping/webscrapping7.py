@@ -1,3 +1,4 @@
+#This part of the code was written in Python using spyder. The variables have Polish names. 
 
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
