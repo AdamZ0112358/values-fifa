@@ -13,6 +13,7 @@ For modelling, **statsmodels** and **scikit-learn** were used.
 
 
 ## Web scraping and merging data sets
+
 [**Link to the code**](https://github.com/AdamZ0112358/values-fifa/blob/main/webscrapping/webscrapping7.py)
 
 The first objective was to collect information on football players from the top 6 European leagues:
@@ -34,7 +35,8 @@ The data in the webscrapping file was also pre-cleaned and processed. The bigges
 The folder also contains the data files that were created during the process.
 
 ## Explanatory Data Analysis
-Tutaj link
+
+[**Link to the code**](https://github.com/AdamZ0112358/values-fifa/blob/main/analysis/Analisys.ipynb)
 
 During EDA, the dataset was carefully analysed. The value of the footballers was changed to a logarithmic value due to the distribution of the data and outliers.
 
@@ -44,7 +46,7 @@ The variables were shown in graphs. It was checked how strongly they were relate
 
 ## Predictive models
 
-Tutaj link
+[**Link to the code**](https://colab.research.google.com/drive/1CNSFzgcQUZ_RpNqBXxnPQ6U4_Bf5L4K_?usp=sharing)
 
 Four models were used for prediction. In each model, feature selection was carried out. The predictive value of the models is compared in the table below.
 
