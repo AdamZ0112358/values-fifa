@@ -36,7 +36,7 @@ The folder also contains the data files that were created during the process.
 
 ## Explanatory Data Analysis
 
-[**Link to the code**](https://github.com/AdamZ0112358/values-fifa/blob/main/analysis/Analisys.ipynb)
+[**Link to the code**](https://colab.research.google.com/drive/1dDi4OKwWJC1_9fBX0YBACgTDA-9Wxx_J?usp=sharing)
 
 During EDA, the dataset was carefully analysed. The value of the footballers was changed to a logarithmic value due to the distribution of the data and outliers.
 
