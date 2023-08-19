@@ -54,8 +54,8 @@ Four models were used for prediction. In each model, feature selection was carri
 | --- | --- | --- | --- | --- |
 |	Linear Regression |	0.6040 |	1.0041 |	0.5544 |	1.0362 |
 |	Multiple Linear Regression |	0.8068 |	0.6999 |	0.7346 |	0.8091 |
-|	Decision Tree |	0.8493 |	0.6189 |	0.7914 |	0.7395 |
-|	Random Forest |	0.8998 |	0.5046 |	0.8368 |	0.6537 |
+|	Decision Tree |	0.8509 |	0.6154 |	0.7849 |	0.7505 |
+|	Random Forest |	0.9200 |	0.4505 |	0.8446 |	0.6378 |
 
 As you can see, the random forest has the best results with Adjusted R-squared on the training data of 0.8998 and on the test data 0.8368 suggests a strong ability to explain the variance in the training and test data. 
 Root Mean Squared Error is the lowest in Random Forest model. This indicates that it has the smallest average difference between predicted values and actual values on the training and test dataset compared to other models.
